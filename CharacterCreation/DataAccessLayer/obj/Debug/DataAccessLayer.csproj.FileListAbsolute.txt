@@ -1,0 +1,13 @@
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Characters.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Abstractions.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Client.Lightweight.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Characters.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Abstractions.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Abstractions.xml
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Client.Lightweight.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\bin\Debug\Raven.Client.Lightweight.xml
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

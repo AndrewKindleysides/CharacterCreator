@@ -1,0 +1,7 @@
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\bin\Debug\GameWorld.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\bin\Debug\GameWorld.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\obj\Debug\GameWorld.csprojResolveAssemblyReference.cache
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\obj\Debug\GameWorld.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\obj\Debug\GameWorld.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\bin\Debug\Characters.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\GameWorld\bin\Debug\Characters.pdb

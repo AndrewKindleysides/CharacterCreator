@@ -1,0 +1,39 @@
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Client.exe.config
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Client.exe
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Client.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Characters.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\DataAccessLayer.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Client.Lightweight.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Abstractions.dll
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Characters.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\DataAccessLayer.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Client.Lightweight.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Client.Lightweight.xml
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Abstractions.pdb
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Raven.Abstractions.xml
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.MainWindow.resources
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.exe
+c:\users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.pdb
+C:\Users\andrew.kindleysides\Documents\Visual Studio 2013\Projects\CharacterCreation\Client\obj\Debug\Client.CharacterEdit.resources
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\death knight.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\druid.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\hunter.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\mage.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\monk.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\paladin.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\priest.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\rogue.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\shaman.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\warlock.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Class\warrior.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\blood elf.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\draenei.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\gnome.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\human.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\night elf.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\orc.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\troll.png
+C:\Users\andrew.kindleysides\documents\visual studio 2013\Projects\CharacterCreation\Client\bin\Debug\Icons\Race\worgen.png
